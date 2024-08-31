@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Защищённый обмен данными", "Защищённый обмен данными.vcxproj", "{ECB0458B-7DA8-40E4-93BF-119279E22DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Debug|x64.ActiveCfg = Debug|x64
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Debug|x64.Build.0 = Debug|x64
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Debug|x86.Build.0 = Debug|Win32
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Release|x64.ActiveCfg = Release|x64
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Release|x64.Build.0 = Release|x64
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Release|x86.ActiveCfg = Release|Win32
+		{ECB0458B-7DA8-40E4-93BF-119279E22DAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A044F637-834D-4410-AB10-5E30009F6D7B}
+	EndGlobalSection
+EndGlobal
